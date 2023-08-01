@@ -1,5 +1,6 @@
 Hi,
-
+  
+  Sample msg discription.
   Welcome to remote repository 
   This the sample text file
   Hi gud mrng.
