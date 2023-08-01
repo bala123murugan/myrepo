@@ -2,8 +2,11 @@ Hi,
 
   Welcome to remote repository 
   This the sample text file
+  Hi gud mrng.
 
 Again Edited..
+
+this is balamurugan..
 
 Regards,
 Balamurugan M.
